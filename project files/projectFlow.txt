@@ -1,0 +1,67 @@
+Epic 1. Environment Setup and Dependency Configuration
+
+Story 1: Obtain Gemini API Key
+
+Story 2: Install Python & Create Virtual Environment
+
+Story 3: Install Project Dependencies
+
+Story 4: Create the .Env Configuration File
+
+Story 5: Verify Model and Data Directories
+
+Story 6: Prepare Project Folder Structure
+
+Epic 2. Kaggle Model Training and Integration
+
+Story 1: Kaggle Setup (GPU + Dependencies + Data Loading)
+
+Story 2: Data Preprocessing & Tokenization
+
+Story 3: BiLSTM Model Training
+
+Story 4: Domain-Adaptive Fine-Tuning
+
+Story 5: BERT Model Fine-Tuning
+
+Story 6: Model Export & Local Integration
+
+Epic 3. Core Emotion Detection Pipeline Development
+
+Story 1: Text Preprocessing & Keyword Enhancement
+
+Story 2: BiLSTM Classifier (5-Class Softmax)
+
+Story 3: BERT Classifier with Class Weighting & Keyword Adjustments
+
+Story 4: Mixed Emotion Detection (≥15% Secondary Scores)
+
+Story 5: Unified Prediction Schema
+
+Story 6: CSV Persistence & Cached Model Loading
+
+Epic 4. AI-Powered Guidance and Regeneration Engine
+
+Story 1: Capture Field and Problem Context for Prompt Generation
+
+Story 2: Generate Empathetic and Context-Aware AI Responses
+
+Story 3: Response Regeneration and Synchronization Mechanism
+
+Story 4: Session History Management and CSV Logging
+
+Epic 5. Streamlit UI Implementation
+
+Story 1: Responsive Layout and Session State Management
+
+Story 2: Emotion Analysis, Model Comparison, and Visualization Components
+
+Story 3: Form Controls, Validation, and Error Handling
+
+Story 4: Analytics Dashboard and Interactive Charts
+
+Epic 6. User Interaction
+
+Story 1: Validate UI Flow End-to-End
+
+Story 2: Optimization and Deployment Readiness

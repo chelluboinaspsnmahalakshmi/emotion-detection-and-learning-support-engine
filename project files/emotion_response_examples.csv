@@ -1,0 +1,272 @@
+text,emotion,confidence,response,field,timestamp
+"i'm curious about machine learning
+",curious,0.9995978474617004,"AI response unavailable: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 56.943967025s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_input_token_count""
+  quota_id: ""GenerateContentInputTokensPerModelPerMinute-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+, retry_delay {
+  seconds: 56
+}
+]",Computer Science,2026-06-30T19:01:02.975458
+"i'm curious about machine learning
+",curious,0.7673792005429747,"AI response unavailable: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 56.943967025s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_input_token_count""
+  quota_id: ""GenerateContentInputTokensPerModelPerMinute-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+, retry_delay {
+  seconds: 56
+}
+]",Computer Science,2026-06-30T19:01:02.975458
+i wanted to do machine learning from deeplearning ai(ml specilization) and paralelly begin the striver's A2Z dsa sheet.,curious,0.5918465256690979,"AI response unavailable: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 38.617839101s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_input_token_count""
+  quota_id: ""GenerateContentInputTokensPerModelPerMinute-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]",Computer Science,2026-06-30T19:02:21.292873
+i wanted to do machine learning from deeplearning ai(ml specilization) and paralelly begin the striver's A2Z dsa sheet.,confident,0.7838905785135887,"AI response unavailable: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 38.617839101s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_input_token_count""
+  quota_id: ""GenerateContentInputTokensPerModelPerMinute-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.0-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]",Computer Science,2026-06-30T19:02:21.292873
+i got a lot of confidence after solving the questions from basic maths on the striver's A2Z dsa sheet.,frustrated,0.3043258190155029,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 34.812331572s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}",Computer Science,2026-07-08T19:18:24.532549
+i got a lot of confidence after solving the questions from basic maths on the striver's A2Z dsa sheet.,confident,0.8368696500216508,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 34.812331572s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}",Computer Science,2026-07-08T19:18:24.532549
+i am curious about machine learning,curious,0.999567210674286,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 973.299159ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}",Computer Science,2026-07-08T19:28:58.332974
+i am curious about machine learning,curious,0.6911456290628248,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 973.299159ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}",Computer Science,2026-07-08T19:28:58.332974
+i am curious about machine learning.,curious,0.999567210674286,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 49.024796236s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}",Computer Science,2026-07-08T19:35:10.277414
+i am curious about machine learning.,curious,0.6911456290628248,"AI response unavailable: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 49.024796236s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}",Computer Science,2026-07-08T19:35:10.277414
+I'm curious about machine learning,curious,0.9995978474617004,"That's wonderful to hear! Curiosity is the perfect starting point for exploring machine learning.
+
+For a Computer Science student, a great strategy is to focus on understanding the core algorithms and mathematical concepts that power machine learning models. This foundational knowledge will help you build robust systems and debug effectively.
+
+A great next step is to pick one simple algorithm, like linear regression or K-Nearest Neighbors, and try to implement it from scratch using Python. Seeing it work firsthand is incredibly rewarding!",Computer Science,2026-07-08T19:44:01.288874
+I'm curious about machine learning,curious,0.7673792830017476,"That's wonderful to hear! Curiosity is the perfect starting point for exploring machine learning.
+
+For a Computer Science student, a great strategy is to focus on understanding the core algorithms and mathematical concepts that power machine learning models. This foundational knowledge will help you build robust systems and debug effectively.
+
+A great next step is to pick one simple algorithm, like linear regression or K-Nearest Neighbors, and try to implement it from scratch using Python. Seeing it work firsthand is incredibly rewarding!",Computer Science,2026-07-08T19:44:01.288874
+I don't understand how recursion works. Every time I trace through the code I get lost.,confused,0.7461206912994385,"AI response unavailable: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",Computer Science,2026-07-13T21:21:15.723852
+I don't understand how recursion works. Every time I trace through the code I get lost.,frustrated,0.4035847793817898,"AI response unavailable: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",Computer Science,2026-07-13T21:21:15.723852
+I don't understand how recursion works. Every time I trace through the code I get lost.,confused,0.7461206912994385,"It's completely normal to feel confused and lost when you first start tracing recursion; many Computer Science students find it a tricky concept at first.
+
+Instead of trying to trace every single call at once, try to focus on just one level: assume the recursive call will correctly solve the smaller problem, and then figure out what your current function needs to do with that result.
+
+A good next step is to pick a very simple recursive function, like factorial, and carefully write down just two or three steps of its execution to see how it builds up.",Computer Science,2026-07-13T21:24:44.800480
+I don't understand how recursion works. Every time I trace through the code I get lost.,frustrated,0.4035847793817898,"It's completely normal to feel confused and lost when you first start tracing recursion; many Computer Science students find it a tricky concept at first.
+
+Instead of trying to trace every single call at once, try to focus on just one level: assume the recursive call will correctly solve the smaller problem, and then figure out what your current function needs to do with that result.
+
+A good next step is to pick a very simple recursive function, like factorial, and carefully write down just two or three steps of its execution to see how it builds up.",Computer Science,2026-07-13T21:24:44.800480
+"I don't understand how recursion works. Every time I trace through the code I get lost.
+",confused,0.7461206912994385,"It's completely normal to feel confused about recursion; many students find it one of the trickiest topics initially, so you're definitely not alone.
+
+Instead of tracing every single step, try to understand the 'recursive leap of faith': assume that the recursive call you make *already works* for a smaller version of the problem.
+
+As a next step, pick a very simple problem like calculating factorials or Fibonacci numbers recursively and try to apply this 'leap of faith' idea.",Computer Science,2026-07-14T09:57:54.397543
+"I don't understand how recursion works. Every time I trace through the code I get lost.
+",frustrated,0.4035847793817898,"It's completely normal to feel confused about recursion; many students find it one of the trickiest topics initially, so you're definitely not alone.
+
+Instead of tracing every single step, try to understand the 'recursive leap of faith': assume that the recursive call you make *already works* for a smaller version of the problem.
+
+As a next step, pick a very simple problem like calculating factorials or Fibonacci numbers recursively and try to apply this 'leap of faith' idea.",Computer Science,2026-07-14T09:57:54.397543
+I don't understand how recursion works. Every time I trace through the code I get lost.,confused,0.7461206912994385,"It's totally understandable to feel confused about recursion; it's a concept that many computer science students find challenging at first. Getting lost while tracing is a very common experience.
+
+A powerful strategy is to focus on understanding the ""base case"" (when the function stops) and the ""recursive step"" (how it calls itself with a simpler input). Instead of tracing everything, try to trust that the smaller recursive call will work correctly, and then think about how that result helps solve the current problem.
+
+Pick a very simple recursive problem you've seen, like calculating a factorial or summing numbers in a list, and try to explain it out loud to yourself. Talking through the base case and the recursive step can really help clarify things.",Computer Science,2026-07-14T10:01:17.782846
+I don't understand how recursion works. Every time I trace through the code I get lost.,frustrated,0.4035847793817898,"It's totally understandable to feel confused about recursion; it's a concept that many computer science students find challenging at first. Getting lost while tracing is a very common experience.
+
+A powerful strategy is to focus on understanding the ""base case"" (when the function stops) and the ""recursive step"" (how it calls itself with a simpler input). Instead of tracing everything, try to trust that the smaller recursive call will work correctly, and then think about how that result helps solve the current problem.
+
+Pick a very simple recursive problem you've seen, like calculating a factorial or summing numbers in a list, and try to explain it out loud to yourself. Talking through the base case and the recursive step can really help clarify things.",Computer Science,2026-07-14T10:01:17.782846
+I'm confused about recursion,confused,0.9995133876800536,"AI response unavailable: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}",Computer Science,2026-07-29T10:46:12.168397
+I'm confused about recursion,confused,0.9198190310139588,"AI response unavailable: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}",Computer Science,2026-07-29T10:46:12.168397
+I'm confused about recursion,confused,0.9995133876800536,"It's completely normal to feel confused about recursion at first; it's a concept that many computer science students find tricky, so you're not alone.
+
+A specific tip for computer science is to always identify the ""base case"" first. This is the simplest version of the problem that doesn't need to call itself again.
+
+As an encouraging next step, try tracing a very simple recursive function, like calculating a factorial, by drawing out each function call on a piece of paper.",Computer Science,2026-07-29T10:49:05.425413
+I'm confused about recursion,confused,0.9198190310139588,"It's completely normal to feel confused about recursion at first; it's a concept that many computer science students find tricky, so you're not alone.
+
+A specific tip for computer science is to always identify the ""base case"" first. This is the simplest version of the problem that doesn't need to call itself again.
+
+As an encouraging next step, try tracing a very simple recursive function, like calculating a factorial, by drawing out each function call on a piece of paper.",Computer Science,2026-07-29T10:49:05.425413
+I'm curious about machine learning,curious,0.9995978474617004,"It's wonderful that you're feeling curious about machine learning! That's a fantastic starting point for exploration.
+
+As a Computer Science student, a great strategy is to focus on understanding the underlying algorithms and data structures that power machine learning models. This will give you a deeper appreciation for how they work.
+
+A good next step could be to try out a beginner-friendly tutorial for a simple machine learning project, like predicting house prices or classifying images, using a popular library like scikit-learn in Python.",Computer Science,2026-07-29T10:53:21.771584
+I'm curious about machine learning,curious,0.7673792005429747,"It's wonderful that you're feeling curious about machine learning! That's a fantastic starting point for exploration.
+
+As a Computer Science student, a great strategy is to focus on understanding the underlying algorithms and data structures that power machine learning models. This will give you a deeper appreciation for how they work.
+
+A good next step could be to try out a beginner-friendly tutorial for a simple machine learning project, like predicting house prices or classifying images, using a popular library like scikit-learn in Python.",Computer Science,2026-07-29T10:53:21.771584
+I'm curious about machine learning,curious,0.7673792005429747,"It's wonderful that you're feeling curious about machine learning! That's a fantastic starting point for exploration.
+
+As a Computer Science student, a great strategy is to focus on understanding the underlying algorithms and data structures that power machine learning models. This will give you a deeper appreciation for how they work.
+
+A good next step could be to try out a beginner-friendly tutorial for a simple machine learning project, like predicting house prices or classifying images, using a popular library like scikit-learn in Python.",Computer Science,2026-07-29T10:54:13.851520

@@ -1,0 +1,4 @@
+# Place BiLSTM model files here after Kaggle training:
+# - bilstm_student_adaptive.keras
+# - tokenizer.pkl
+# - label_classes.npy

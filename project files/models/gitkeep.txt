@@ -1,0 +1,7 @@
+# Place BERT model files here after Kaggle training:
+# - config.json
+# - model.safetensors
+# - tokenizer.json
+# - tokenizer_config.json
+# - special_tokens_map.json
+# - label_mapping.json

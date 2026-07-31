@@ -105,18 +105,10 @@ Emotion_Detection_and_Learning_Support_Engine/
 - Google Gemini API
 - Pandas
 - NumPy
-- Plotly
 - Scikit-learn
 
 ---
 
-# 🚀 Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/DURGAGANGADHAR18/Emotion-Detection-Learning-Support-Engine.git
-```
 
 ### Navigate to the project
 
@@ -304,15 +296,14 @@ The application provides:
 
 # 👨‍💻 Developer
 
-**Bogadula Durga Gangadhar Rao**
+Chelluboina S P S N Mahalakshmi
 
-B.Tech – Computer Science and Engineering
+B.Tech – ECE
 
-Seshadri Rao Gudlavalleru Engineering College (SRGEC)
+Aditya college of engineering and technology(ACET)
 
 GitHub:
-https://github.com/DURGAGANGADHAR18
-
+https://github.com/chelluboinaspsnmahalakshmi/emotion-detection-and-learning-support-engine/edit/main/README.md
 ---
 
 # 📜 License
